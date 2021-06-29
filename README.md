@@ -12,6 +12,10 @@ You can use the website to generate badges: https://shields.io/
 
 ## I'm a Data Sciencetist! 👨🏻‍💻
 
+
+
+
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <p align="center">
   <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
