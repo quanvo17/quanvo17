@@ -11,11 +11,9 @@ You can use the website to generate badges: https://shields.io/
 <img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" border-radius="50%">
 
 ## I'm a Data Sciencetist! 👨🏻‍💻
-
-
-
-
-
+<br>
+<br>
+<br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <p align="center">
   <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
