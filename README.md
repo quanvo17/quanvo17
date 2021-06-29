@@ -12,17 +12,6 @@ You can use the website to generate badges: https://shields.io/
 
 ## I'm a Data Sciencetist! 👨🏻‍💻
 
-- I’m currently working on building my knowledge in the field of Data Science!
-  - Learning Computer Vision, Natural Language Processing
-  - Learning how to deploy Machine Learning/Deep Learning Models
-  - Reading papers on ML/DL/AI
-- I’m currently learning : 
-  - Deep Learning for Coders by [fast.ai](http://course.fast.ai)
-  - DeepLearning.AI TensorFlow Developer [Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
-  - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- I’m looking to collaborate with other content creators
-- 2020/2021 Goals: Contribute more to Open Source projects
-- Fun fact: I have a degree in Civil Engineering! :construction_worker:
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <p align="center">
   <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
